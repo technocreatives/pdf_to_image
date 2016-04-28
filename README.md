@@ -114,4 +114,4 @@ To easily and quickly convert PDF document to images.
 ## Author
 
 - [Mingjie Li](mailto:limingjie@outlook.com)
-- [GitHub](https://github.com/limingjie)
+- [Waqas Aslam](mailto:waqaslam@yahoo.com)
