@@ -3,6 +3,9 @@
 *.lo
 *.o
 *.obj
+*.sdf
+*.opensdf
+vs2013/Release_x86
 
 # Precompiled Headers
 *.gch
