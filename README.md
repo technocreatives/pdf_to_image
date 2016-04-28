@@ -19,6 +19,13 @@ To easily and quickly convert PDF document to images.
 
 ## Release Note
 
+### Version 1.0
+- removed page range options
+- removed option to select export quality. Now default is set to "Print"
+- exported images are saved on the same location where the executable of this application is
+- added instructions on how to convert pdf to images
+- added version label in title bar
+
 ### Version 0.2.1pre
 
 - [Issue #2] Specify export directory.
